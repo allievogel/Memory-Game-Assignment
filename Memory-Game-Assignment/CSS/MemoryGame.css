@@ -1,0 +1,30 @@
+.body{
+	margin: 0px;
+}
+
+.headerClass{
+	height: 10%;
+	width: 100%;
+	border: black solid 2px;
+	text-align: center;
+	font-family: Veranda, serif;
+	font-size: 16px;
+}
+
+.buttonClass{
+	background-color: white;
+	font-size: 12px;
+}
+
+#memory-holder{
+    border: black solid 2px;
+}
+
+.columnClass{
+    height: 33%;
+    width: 30%;
+    margin: 1%;
+	border: black solid 2px;
+	padding: 0px;
+	content: url("../Images/texture.jpg");
+}
